@@ -1,0 +1,6 @@
+owner=557181389100023839
+prefix= 1play
+game= 1play |  gg-craft
+stayinchannel=true
+songinstatus=false
+token=NTg1MjI2NzkwODYwMDk1NTA3.XPWZ8g.U2mcHSSuIhVozpV2RRmR7usYCSM
